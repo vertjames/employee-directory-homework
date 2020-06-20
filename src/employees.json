@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "firstName": "Lolita",
+    "lastName": "Pinckney",
+    "title": "Electrical Engineer",
+    "department": "Engineering",
+    "salary": 47000
+  },
+  {
+    "id": 2,
+    "firstName": "Zelma",
+    "lastName": "Paver",
+    "title": "Software Test Engineer II",
+    "department": "Marketing",
+    "salary": 48000
+  },
+  {
+    "id": 3,
+    "firstName": "Tab",
+    "lastName": "Fell",
+    "title": "Biostatistician IV",
+    "department": "Sales",
+    "salary": 50000
+  },
+  {
+    "id": 4,
+    "firstName": "Corette",
+    "lastName": "Dalgleish",
+    "title": "Business Systems Development Analyst",
+    "department": "Research and Development",
+    "salary": 98000
+  },
+  {
+    "id": 5,
+    "firstName": "Tris",
+    "lastName": "Stovine",
+    "title": "Research Nurse",
+    "department": "Services",
+    "salary": 25000
+  },
+  {
+    "id": 6,
+    "firstName": "Nelli",
+    "lastName": "Broszkiewicz",
+    "title": "Marketing Manager",
+    "department": "Sales",
+    "salary": 79000
+  },
+  {
+    "id": 7,
+    "firstName": "Lavina",
+    "lastName": "Gummie",
+    "title": "Clinical Specialist",
+    "department": "Business Development",
+    "salary": 82000
+  },
+  {
+    "id": 8,
+    "firstName": "Nealson",
+    "lastName": "Berridge",
+    "title": "Assistant Manager",
+    "department": "Business Development",
+    "salary": 53000
+  },
+  {
+    "id": 9,
+    "firstName": "Huntley",
+    "lastName": "Whichelow",
+    "title": "Analog Circuit Design manager",
+    "department": "Marketing",
+    "salary": 25000
+  },
+  {
+    "id": 10,
+    "firstName": "Lemar",
+    "lastName": "Thackray",
+    "title": "Help Desk Operator",
+    "department": "Legal",
+    "salary": 88000
+  },
+  {
+    "id": 11,
+    "firstName": "Matthias",
+    "lastName": "Sadd",
+    "title": "Human Resources Manager",
+    "department": "Marketing",
+    "salary": 61000
+  },
+  {
+    "id": 12,
+    "firstName": "Margo",
+    "lastName": "Adds",
+    "title": "Assistant Media Planner",
+    "department": "Accounting",
+    "salary": 41000
+  },
+  {
+    "id": 13,
+    "firstName": "Julieta",
+    "lastName": "Sayce",
+    "title": "Product Engineer",
+    "department": "Product Management",
+    "salary": 49000
+  },
+  {
+    "id": 14,
+    "firstName": "Rance",
+    "lastName": "Eads",
+    "title": "Senior Quality Engineer",
+    "department": "Support",
+    "salary": 42000
+  },
+  {
+    "id": 15,
+    "firstName": "Claudine",
+    "lastName": "Elias",
+    "title": "Technical Writer",
+    "department": "Engineering",
+    "salary": 43000
+  },
+  {
+    "id": 16,
+    "firstName": "Kevon",
+    "lastName": "Mathiassen",
+    "title": "Executive Secretary",
+    "department": "Research and Development",
+    "salary": 30000
+  },
+  {
+    "id": 17,
+    "firstName": "Liana",
+    "lastName": "Cuddehy",
+    "title": "Clinical Specialist",
+    "department": "Accounting",
+    "salary": 111000
+  },
+  {
+    "id": 18,
+    "firstName": "Gillie",
+    "lastName": "McGooch",
+    "title": "Help Desk Technician",
+    "department": "Research and Development",
+    "salary": 115000
+  },
+  {
+    "id": 19,
+    "firstName": "Marlie",
+    "lastName": "Kornousek",
+    "title": "Technical Writer",
+    "department": "Training",
+    "salary": 28000
+  },
+  {
+    "id": 20,
+    "firstName": "Petronilla",
+    "lastName": "Doiley",
+    "title": "Assistant Manager",
+    "department": "Accounting",
+    "salary": 36000
+  }
+]
