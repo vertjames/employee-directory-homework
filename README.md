@@ -13,7 +13,7 @@
   
   <a name="installation"></a>
   ## Installation
-  To use the application locally, enter 'npm i' then 'npm start' into the Terminal. Otherwise visit the url of the <a href='https://vertjames.github.io/employee-directory-homework'>deployed app</a>.
+  To use the application locally, enter 'npm i' then 'npm start' into the Terminal. Otherwise visit the url of the <a href='https://vertjames.github.io/employee-directory-homework/'>deployed app</a>.
   
   <a name="usage"></a>
   ## Usage
